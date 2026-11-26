@@ -1,350 +1,193 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:e94560&height=200&section=header&text=iGaming%20Engineer&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Slot%20Math%20%E2%80%A2%20RGS%20%E2%80%A2%20Casino%20APIs&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:06b6d4&height=220&section=header&text=Kevin%20Pham&fontSize=64&fontColor=ffffff&fontAlignY=35&desc=Senior%20Full-Stack%20Software%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Kevin Pham — Senior Full-Stack Software Engineer" />
 
-<a href="https://github.com/sgnihttcejbo">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=E94560&center=true&vCenter=true&width=650&lines=Casino+Slot+Game+Developer;RGS+%2B+Aggregator+API+Architect;Provably+Fair+%26+Certified+RNG+Systems;Bonus%2C+Jackpot+%26+Free+Spin+Engines;99.9%25+Uptime+at+50k+Spins%2Fsecond" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineering;AI-Powered+Applications+%26+LLM+Integration;Scalable+APIs+%26+Distributed+Systems;React+%7C+TypeScript+%7C+Python+%7C+Node.js" alt="Engineering specialties" />
 
-<br/>
+![Experience](https://img.shields.io/badge/Experience-11%2B_Years-2563EB?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Full_Stack_%26_AI-0891B2?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-California-334155?style=for-the-badge)
 
-![Slot Games](https://img.shields.io/badge/Slot_Games-120+-e94560?style=for-the-badge&labelColor=1a1a2e)
-![RGS](https://img.shields.io/badge/RGS-Multi_Tenant-0f3460?style=for-the-badge&labelColor=1a1a2e)
-![RNG](https://img.shields.io/badge/RNG-GLI--19_Ready-16c79a?style=for-the-badge&labelColor=1a1a2e)
-![Uptime](https://img.shields.io/badge/Uptime-99.98%25-f5a623?style=for-the-badge&labelColor=1a1a2e)
+<a href="https://www.linkedin.com/in/kevin-pham-48a2ab452/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kevindev731@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
-## `>` whoami
+## `>` About me
+
+I'm a senior full-stack software engineer focused on building scalable web applications, reliable backend services, and AI-powered software. My experience spans life sciences, enterprise software, fintech, and AI-powered SaaS.
+
+I work across the entire software development lifecycle — from architecture and implementation to automated testing, deployment, and production support. I care about clean interfaces, maintainable code, secure data processing, and systems that solve meaningful business problems.
 
 ```ts
-const dev: iGamingEngineer = {
-  role:       "Slot Game Developer & Gaming API Provider",
-  focus:      ["Reel Math Models", "Remote Gaming Server", "Seamless Wallet APIs"],
-  engines:    ["PixiJS", "Phaser 3", "Unity", "Spine 2D", "WebGL"],
-  backend:    ["Node.js", "Go", "Rust", "PostgreSQL", "Redis", "Kafka"],
-  certified:  ["GLI-19", "iTech Labs", "BMM Testlabs"],
-  markets:    ["MGA", "UKGC", "Curacao", "Anjouan", "Kahnawake"],
-  currently:  "Cluster-pays engine evaluating 100k+ ways in under 8ms",
-  philosophy: "The math model is the product. Everything else is presentation."
-};
+const engineer = {
+  name: "Kevin Pham",
+  role: "Senior Full-Stack Software Engineer",
+  location: "Garden Grove, California",
+  experience: "11+ years",
+  languages: ["TypeScript", "JavaScript", "Python", "SQL"],
+  frontend: ["React", "Next.js", "Vue.js"],
+  backend: ["Node.js", "NestJS", "FastAPI", "Django"],
+  databases: ["PostgreSQL", "MongoDB", "Redis", "MySQL"],
+  focus: ["AI Applications", "Distributed Systems", "Cloud Architecture"],
+  principles: ["Maintainability", "Reliability", "Security"]
+} as const;
 ```
 
-I ship **certifiable, audit-ready casino software** — from the reel-strip spreadsheet all the way to the
-operator's `/bet` endpoint. Not demos. Production systems that settle real money, survive regulator
-scrutiny, and don't fall over on a Saturday-night traffic spike.
+## `>` What I build
 
----
+| Frontend engineering | Backend & distributed systems | AI engineering |
+|---|---|---|
+| Responsive React applications | REST and GraphQL APIs | LLM integration |
+| Next.js and server-side rendering | Event-driven services | Retrieval-augmented generation |
+| Reusable component architecture | Asynchronous processing | AI research assistants |
+| Interactive analytical dashboards | Real-time WebSocket services | Document ingestion and processing |
+| State management and performance | Database design and caching | Structured outputs and AI agents |
 
-## `>` what I build
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🎰 Slot Engines
-
-Reel strips • Paylines • Ways<br/>
-Cluster Pays • Megaways-style<br/>
-Hold &amp; Win • Cascading / Tumble<br/>
-Expanding &amp; Sticky Wilds<br/>
-Free Spin retriggers<br/>
-Buy-Feature / Ante Bet<br/>
-Multi-level Jackpots
-
-</td>
-<td width="33%" valign="top">
-
-### 🧮 Math &amp; Certification
-
-RTP modelling (88–98%)<br/>
-Volatility index tuning<br/>
-Hit frequency analysis<br/>
-Monte Carlo @ 10B spins<br/>
-PAR sheets &amp; math docs<br/>
-Cycle &amp; max-win validation<br/>
-Lab submission packs
-
-</td>
-<td width="33%" valign="top">
-
-### 🔌 Platform &amp; APIs
-
-RGS (Remote Gaming Server)<br/>
-Seamless / Transfer wallet<br/>
-Aggregator integrations<br/>
-Bonus &amp; free-round engine<br/>
-Tournaments &amp; leaderboards<br/>
-Affiliate + agent hierarchy<br/>
-Back-office &amp; reporting
-
-</td>
-</tr>
-</table>
-
----
-
-## `>` the stack
+## `>` Technology stack
 
 <div align="center">
 
-**Game Client**
+**Languages & Frontend**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PixiJS](https://img.shields.io/badge/PixiJS-E91E63?style=flat-square&logo=pixiv&logoColor=white)
-![Phaser](https://img.shields.io/badge/Phaser_3-9966FF?style=flat-square&logo=phaser&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
-![Spine](https://img.shields.io/badge/Spine_2D-FF6B00?style=flat-square&logo=spine&logoColor=white)
-![Howler](https://img.shields.io/badge/Howler.js-F5A623?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-334155?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Game Server / RGS**
+**Backend & APIs**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-334155?style=flat-square)
 
-**Data &amp; Infra**
+**Data & Messaging**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+**AI & LLM Engineering**
+
+![LLM](https://img.shields.io/badge/LLM_Integration-2563EB?style=flat-square)
+![RAG](https://img.shields.io/badge/Retrieval_Augmented_Generation-0891B2?style=flat-square)
+![Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-334155?style=flat-square)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-0F766E?style=flat-square)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-**Crypto / Web3 Casino**
+**Testing & Quality**
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![ethers.js](https://img.shields.io/badge/ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white)
-![TRC-20](https://img.shields.io/badge/TRC--20-FF060A?style=flat-square&logo=tron&logoColor=white)
-![Chainlink VRF](https://img.shields.io/badge/Chainlink_VRF-375BD2?style=flat-square&logo=chainlink&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## `>` seamless wallet integration
+## `>` AI application architecture
 
-Every operator asks the same question: *"how fast can you integrate?"*
-Answer: one API key, four endpoints, idempotent by design.
+An illustrative architecture for an asynchronous, retrieval-augmented research application:
 
 ```mermaid
-sequenceDiagram
-    autonumber
-    participant P as Player
-    participant G as Game Client
-    participant R as RGS / Game Server
-    participant O as Operator Wallet
-
-    P->>G: launch(token, gameId)
-    G->>R: POST /session/authenticate
-    R->>O: POST /player/balance
-    O-->>R: balance, currency, jurisdiction
-    R-->>G: session + reel config + RTP variant
-
-    P->>G: SPIN (bet = 1.00)
-    G->>R: POST /game/spin (roundId, bet)
-    R->>O: POST /wallet/debit (txId) -- idempotent
-    O-->>R: 200 OK, new balance
-    R->>R: RNG -> reel stops -> evaluate wins
-    alt winning round
-        R->>O: POST /wallet/credit (txId, win)
-    end
-    R-->>G: stops, wins, features, balance
-    G-->>P: animate cascade + payout
-
-    Note over R,O: timeout or 5xx -> POST /wallet/rollback (txId)
+flowchart TD
+    UI[React / Next.js] --> API[API Layer]
+    API --> AUTH[Authentication and Authorization]
+    AUTH --> SVC[Node.js / FastAPI Services]
+    SVC --> DB[(PostgreSQL)]
+    SVC --> CACHE[(Redis)]
+    SVC --> Q[Background Task Queue]
+    Q --> W[Python Workers]
+    W --> RET[Document Retrieval]
+    RET --> LLM[LLM Processing]
+    LLM --> VAL[Structured Output Validation]
+    VAL --> DB
+    W --> EVENTS[Progress Events]
+    EVENTS --> UI
 ```
 
-**Integration contract at a glance**
+<details>
+<summary><b>Frontend architecture and performance</b></summary>
 
-| Endpoint | Method | Guarantee |
-|---|:---:|---|
-| `/wallet/balance` | `POST` | Read-only, 500 ms cache |
-| `/wallet/debit` | `POST` | Idempotent on `txId`, single-flight per round |
-| `/wallet/credit` | `POST` | Idempotent, replay-safe, always settles |
-| `/wallet/rollback` | `POST` | Compensating tx, safe to call N times |
-| `/game/launch` | `GET` | Signed URL, 60 s TTL, jurisdiction-aware |
+- Reusable components and predictable state management
+- Server-side rendering, lazy loading, and code splitting
+- Responsive interfaces and interactive data visualization
+- Efficient data fetching and rendering
 
-> **Reliability contract:** every money movement is a state machine persisted *before* the network call.
-> A crash mid-round replays to the exact same outcome, because the RNG seed is committed before the debit.
+</details>
 
----
+<details>
+<summary><b>Backend reliability and security</b></summary>
 
-## `>` provably fair (crypto casinos)
+- RESTful and GraphQL API design
+- Asynchronous workers and event-driven processing
+- PostgreSQL query optimization and Redis caching
+- OAuth2, JWT, role-based access control, and input validation
 
-```ts
-import { createHmac, createHash } from "node:crypto";
+</details>
 
-/**
- * Deterministic reel stops from a committed server seed.
- * Player verifies post-round: sha256(serverSeed) === publishedHash
- */
-export function spinOutcome(
-  serverSeed: string,
-  clientSeed: string,
-  nonce: number,
-  reels: readonly number[]      // strip length per reel
-): number[] {
-  const digest = createHmac("sha256", serverSeed)
-    .update(`${clientSeed}:${nonce}`)
-    .digest();
+<details>
+<summary><b>AI-powered research workflows</b></summary>
 
-  // Rejection sampling, never a naive `% len` — modulo bias skews the
-  // distribution and a competent auditor will fail the submission for it.
-  return reels.map((len, i) => unbiased(digest, i * 4, len));
-}
+- Document ingestion and retrieval-augmented generation
+- Natural language research interfaces and summarization
+- Structured model outputs and asynchronous task processing
+- Real-time visibility into long-running AI tasks
 
-export const commit = (serverSeed: string) =>
-  createHash("sha256").update(serverSeed).digest("hex");
-```
+</details>
+
+## `>` Professional background
+
+| Domain | Engineering focus |
+|---|---|
+| AI-powered life sciences | Research workflows, document processing, analytical dashboards |
+| Enterprise software | Full-stack architecture, integrations, distributed services |
+| Fintech | Digital lending, secure customer portals, financial workflows |
+
+**Education:** Bachelor's degree in Computer Science — University of California, Irvine (UCI).
+
+## `>` Engineering principles
+
+- Build for maintainability, not just immediate delivery.
+- Measure performance before optimizing.
+- Keep security and data privacy integral to system design.
+- Validate AI outputs before consuming them downstream.
+- Automate testing and deployment wherever practical.
+- Make technical decisions with clear, documented trade-offs.
+
+## `>` Connect
 
 <div align="center">
 
-**`commit` → `play` → `reveal` → `verify`** — the player can audit every spin they ever made.
+Interested in full-stack engineering, AI-powered products, and scalable software architecture.
 
-</div>
+<a href="mailto:kevindev731@gmail.com"><img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/kevin-pham-48a2ab452/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
----
-
-## `>` math model showcase
-
-| Model | Mechanic | Grid | RTP band | Volatility | Max Win | Hit Freq. |
-|---|---|:---:|:---:|:---:|:---:|:---:|
-| **Solar Blaze** | Ways + Hold &amp; Win | 5×3 | 96.21 / 94.5 / 88.0 | ★★★☆☆ | 5,000× | 28.4% |
-| **Reef Cascade** | Cluster + Tumble | 7×7 | 96.48 / 94.2 | ★★★★☆ | 12,500× | 22.1% |
-| **Dragon Ways X** | 117,649 Ways | 6×7 | 96.05 / 93.9 | ★★★★★ | 50,000× | 19.7% |
-| **Fortune Vault** | Hold &amp; Win + Jackpot | 5×4 | 95.90 / 94.0 | ★★★★☆ | 8,000× | 31.2% |
-| **Neon Streak** | Expanding Wilds | 5×3 | 96.70 | ★★☆☆☆ | 2,000× | 36.8% |
-
-<sub>Every model ships with a PAR sheet, a 10B-spin Monte Carlo report, cycle validation, and a lab submission pack.</sub>
-
-<!-- Swap these rows for your real titles, and link each name to its repo or demo. -->
-
----
-
-## `>` platform capabilities
-
-<details>
-<summary><b>🎁 Bonus &amp; Promotion Engine</b></summary>
-
-- Free spins — game-locked, value-locked, wager-locked
-- Deposit match / cashback / reload with rollover tracking
-- Wagering contribution weights per game category
-- Bonus-abuse detection (bet-pattern + velocity heuristics)
-- Expiry, forfeiture and partial-conversion rules engine
-
-</details>
-
-<details>
-<summary><b>💰 Jackpot Systems</b></summary>
-
-- Progressive: standalone, local pool, wide-area network
-- Multi-tier Mini / Minor / Major / Grand
-- Contribution accounting with seed + reserve split
-- Must-drop-by, triggered on time or amount
-- Atomic award with exactly-once settlement
-
-</details>
-
-<details>
-<summary><b>🏆 Tournaments &amp; Engagement</b></summary>
-
-- Real-time leaderboards on Redis sorted sets, sub-millisecond updates
-- Scoring by total win, biggest multiplier, spin count or streak
-- Prize-pool distribution with automatic settlement
-- Missions, quests, daily wheels and loyalty tiers
-
-</details>
-
-<details>
-<summary><b>🛡️ Compliance &amp; Responsible Gaming</b></summary>
-
-- Reality-check timers, session limits, forced breaks
-- Deposit / loss / wager limits with cool-off enforcement
-- Self-exclusion registries and jurisdiction geo-blocking
-- KYC/AML hooks, PEP and sanctions screening
-- Full audit trail — every round reconstructible for a regulator
-- Per-market autoplay restrictions (UKGC compliant)
-
-</details>
-
-<details>
-<summary><b>📊 Back-Office &amp; Analytics</b></summary>
-
-- GGR / NGR / hold% dashboards per game and per brand
-- Player lifetime value, churn and cohort analysis
-- Real-time RTP drift monitoring with alerting
-- Agent and affiliate hierarchies with revenue-share automation
-- ClickHouse-backed reporting over billions of rounds
-
-</details>
-
----
-
-## `>` engineering principles
-
-```
-1. The RNG is certified, isolated, and never touched by game logic.
-2. Money moves through a state machine, never through an if-statement.
-3. Every round is reconstructible from the event log. Every one.
-4. Idempotency keys on all writes — the network will betray you.
-5. RTP is validated by simulation, not by hope.
-6. Responsible gaming is a requirement, not a checkbox.
-```
-
----
-
-## `>` stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sgnihttcejbo&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&icon_color=e94560&title_color=e94560" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sgnihttcejbo&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&title_color=e94560" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sgnihttcejbo&hide_border=true&theme=tokyonight&fire=e94560&ring=e94560&currStreakLabel=e94560" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=sgnihttcejbo&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
-
-</div>
-
----
-
-## `>` let's build
-
-<div align="center">
-
-Need a **slot game**, a **turnkey RGS**, or an **aggregator integration** that passes certification first time?
-
-<a href="mailto:cashblaze129@gmail.com">
-  <img src="https://img.shields.io/badge/Email-e94560?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://t.me/">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://discord.com/">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-<!-- Replace the placeholder hrefs above with your real Telegram / LinkedIn / Discord links. -->
-
-<br/><br/>
-
-<sub>🔞 Everything I build targets <b>licensed operators in regulated markets</b> and ships with
-responsible-gambling controls enabled by default. Gambling is entertainment, never a strategy —
-if it stops being fun, take a break: <a href="https://www.begambleaware.org/">BeGambleAware.org</a></sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,50:16213e,100:1a1a2e&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e40af,100:0f172a&height=120&section=footer" width="100%" alt="" />
 
 </div>
